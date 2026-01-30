@@ -1,0 +1,1 @@
+❌ Ошибка при генерации решения: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}}
